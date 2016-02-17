@@ -1,0 +1,13 @@
+{
+  "name": "conges-ws-node",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "moment": "^2.11.2",
+    "mysql": "^2.9.0"
+  },
+  "scripts": {
+    "start": "node expressserver.js"
+  }
+}
